@@ -21,7 +21,7 @@ A sleek and responsive currency converter built using **React**, **JavaScript**,
 - **Frontend**: React, JavaScript
 - **Styling**: Tailwind CSS
 - **Bundler**: Vite
-- **API**: Real-time exchange rates via public currency API (e.g. [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api))
+- **API**: Real-time exchange rates via public currency API
 
 ## Screenshots
 
