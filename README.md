@@ -27,9 +27,9 @@ A sleek and responsive currency converter built using **React**, **JavaScript**,
 
 | Home Screen | Conversion Example | Swap Currencies |
 |-------------|---------------------|-----------------|
-| ![Home]![Screenshot (1039)](https://github.com/user-attachments/assets/6068e197-d24b-44d6-aefc-af3aa1d7ff97)
- | ![Conversion]![Screenshot (1040)](https://github.com/user-attachments/assets/01c4087b-7b50-4eef-bf85-978d6f519627)
- | ![Swap]![Screenshot (1041)](https://github.com/user-attachments/assets/cb278d61-d02a-496f-a8bb-6fb5dcf502da)
+| [Screenshot (1039)](https://github.com/user-attachments/assets/6068e197-d24b-44d6-aefc-af3aa1d7ff97)
+ |[Screenshot (1040)](https://github.com/user-attachments/assets/01c4087b-7b50-4eef-bf85-978d6f519627)
+ |[Screenshot (1041)](https://github.com/user-attachments/assets/cb278d61-d02a-496f-a8bb-6fb5dcf502da)
  |
 
 ## Installation
